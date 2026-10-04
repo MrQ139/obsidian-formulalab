@@ -55,12 +55,12 @@ FormulaLab/
 ### Install with BRAT (until it is in the community directory)
 
 1. Install **BRAT** from Community plugins.
-2. Run **BRAT: Add a beta plugin for testing** and enter `MrQ139/FormulaLab`.
+2. Run **BRAT: Add a beta plugin for testing** and enter `MrQ139/obsidian-formulalab`.
 3. Enable **FormulaLab** in Community plugins. BRAT keeps it updated from new releases.
 
 ### Install manually
 
-Download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/MrQ139/FormulaLab/releases/latest) into:
+Download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/MrQ139/obsidian-formulalab/releases/latest) into:
 
 ```text
 path/to/Vault/.obsidian/plugins/formulalab/
